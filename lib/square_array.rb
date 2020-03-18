@@ -5,4 +5,5 @@ def square_array(array)
     array.index ** 2
     counter += 1
   end
+  return array
 end
